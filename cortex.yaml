@@ -1,0 +1,20 @@
+openapi: 3.0.1
+info:
+  title: Billsprocessing
+  description: ""
+  x-cortex-tag: billsprocessing
+  x-cortex-git:
+    github:
+      repository: ilya-cortex-org/billsprocessing
+  x-cortex-owners:
+  - channel: general
+    type: SLACK
+  - email: ilya.elkind@cortex.io
+    type: EMAIL
+  - name: devops
+    type: GROUP
+  x-cortex-service-groups:
+  - python
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1
+    cortex-generated-timestamp: 2023-09-19T15:12:59.373638138
